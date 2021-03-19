@@ -1,0 +1,28 @@
+#nawel{
+    right: 100px;
+    width: 980px;
+    top: 1%;
+    left: 35%;
+    position: absolute;
+    height: 100px;
+    ;  
+    
+}
+.accueil{
+    
+    width: 1000px;
+    top: 1%;
+    
+    
+    position: absolute;
+    ;
+}
+body{
+    font-size: medium;
+    background-color:#D5F5E3;
+}
+#photo{
+    width: 80%;
+    padding: 2%;
+    margin: 10%;
+}
